@@ -3,16 +3,18 @@ ASP.NET Core MVC's Code
 
 This is the repository for the code for ASP.NET Core MVC. 
 
-• C# 6.0
+â€¢ C# 6.0
 
-• .NET Core Version 1.0.3
+â€¢ .NET Core Version 1.0.3
 
-• ASP.NET Core Version 1.1.1
+â€¢ ASP.NET Core Version 1.1.1
 
-• ASP.NET Core MVC Version 1.1.2
+â€¢ ASP.NET Core MVC Version 1.1.2
 
-• Nuget Version 4.1.0
+â€¢ Nuget Version 4.1.0
+
+â€¢ SQLite Version 3.25.1
 
 **Credits:**
 
-• https://docs.microsoft.com
+â€¢ https://docs.microsoft.com
